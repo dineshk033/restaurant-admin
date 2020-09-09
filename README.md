@@ -1,6 +1,18 @@
-# FoodAppAngular
+# Restaurant Admin Panel
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
+
+#Restaurant Dashboard
+![Restaurant Dashboard](https://github.com/dineshk033/restaurant-admin/blob/master/src/assets/Dashboard.PNG)
+
+#Order Tracking
+![Order Tracking](https://github.com/dineshk033/restaurant-admin/blob/master/src/assets/order.PNG)
+
+#Food Item Management
+![Order Tracking](https://github.com/dineshk033/restaurant-admin/blob/master/src/assets/itme.PNG)
+
+#Promo Tracking
+![Order Tracking](https://github.com/dineshk033/restaurant-admin/blob/master/src/assets/promo.PNG)
 
 ## Development server
 
